@@ -35,5 +35,4 @@ export default class AddressFieldData {
   postalCode = () => {
     return this.locality().postalCode
   }
-
 }
